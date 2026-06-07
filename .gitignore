@@ -42,6 +42,9 @@ dist/
 Thumbs.db
 desktop.ini
 
+# ── Claude Code ───────────────────────────────────
+.claude/settings.local.json
+
 # ── Logs ──────────────────────────────────────────
 *.log
 logs/
